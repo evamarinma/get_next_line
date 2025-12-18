@@ -9,7 +9,7 @@ If all you've dreamt about in your life is having a program to get you *El Quijo
 <blockquote style="border-left: 4px solid #f85149; background-color: rgba(0.05); padding: 10px;">
 <p style="margin-left: 10px;"> ⚠️ <strong>DISCLAIMER</strong>
 <br>
-<i>If you're a 42 student: 42 projects must be CODED by yourself. Do not copy this project into yours. You will learn nothing by doing that. Exams are completed without Internet connection; you're alone with your IDE. The porpuse of these repositories is to show what we do at 42 and, yes, if you're stucked at some point, learn something new, but give peer-to-peer a chance first 😉.</i></p>
+<i>If you're a 42 student: 42 projects must be CODED by yourself. Do not copy this project into yours. You will learn nothing by doing that. Exams are completed without Internet connection; you're alone with your IDE. The porpuse of these repositories is to show what we do at 42 and, yes, if you're stucked at some point, learn something new, but give peer-to-peer a chance first</i> 😉.</p>
 </blockquote>
 
 
@@ -37,6 +37,7 @@ cc *.c -o get_next_line && ./get_next_line | cat -e
 ```bash
 cc *.c -o get_next_line && grep e input.txt | ./get_next_line | cat -e
 ```
+
 <blockquote style="border-left: 4px solid  #8ADFD7; background-color: rgba(0.05); padding: 3px;">
 <p style=" margin-left: 10px;">Here's an example of how this output should look like:</p>
 </blockquote>
