@@ -47,7 +47,7 @@ cc *.c -o get_next_line && grep e input.txt | ./get_next_line | cat -e
 <img width="100%" height="100%" alt="stdin 0 get_next_line example" src="https://i.imgur.com/NhZQTtr.png" />
 <small><i>Get creative and try different ways to get lines from an input through the terminal!</i></small>
 
-> .[!NOTE].
+> [!NOTE]
 > blablabla
 
 
