@@ -6,11 +6,8 @@
 ### :open_book: Introduction
 If all you've dreamt about in your life is having a program to get you *El Quijote* line-by-line, this is your 42 project. That's it, that's what it does, there's no more introduction to be done.
 
-<blockquote style="border-left: 4px solid #f85149; background-color: rgba(0.05); padding: 10px;">
-<p style="margin-left: 10px;"> ⚠️ <strong>DISCLAIMER</strong>
-<br>
-<i>If you're a 42 student: 42 projects must be CODED by yourself. Do not copy this project into yours. You will learn nothing by doing that. Exams are completed without Internet connection; you're alone with your IDE. The porpuse of these repositories is to show what we do at 42 and, yes, if you're stucked at some point, learn something new, but give peer-to-peer a chance first</i> 😉.</p>
-</blockquote>
+> [!WARNING]
+> *If you're a 42 student: 42 projects must be CODED by yourself. Do not copy this project into yours. You will learn nothing by doing that. Exams are completed without Internet connection; you're alone with your IDE. The porpuse of these repositories is to show what we do at 42 and, yes, if you're stucked at some point, learn something new, but give peer-to-peer a chance first* 😉.
 
 
 ### :dart: Example
