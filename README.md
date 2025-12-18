@@ -36,16 +36,12 @@ cc *.c -o get_next_line && ./get_next_line | cat -e
 ```bash
 cc *.c -o get_next_line && grep e input.txt | ./get_next_line | cat -e
 ```
-
-<blockquote style="border-left: 4px solid  #8ADFD7; background-color: rgba(0.05); padding: 3px;">
-<p style=" margin-left: 10px;">Here's an example of how this output should look like:</p>
-</blockquote>
+> [!NOTE]
+> *Here's an example of how this output should look like:*
 
 <img width="100%" height="100%" alt="stdin 0 get_next_line example" src="https://i.imgur.com/NhZQTtr.png" />
 <small><i>Get creative and try different ways to get lines from an input through the terminal!</i></small>
 
-> [!NOTE]
-> blablabla
 
 
 
