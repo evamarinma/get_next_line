@@ -30,6 +30,7 @@ git clone git@github.com:evamarinma/get_next_line.git
 <br>
 3. Compile the code. You can do it in different ways, depending on the file descriptor you want to use.
 * If you just want your `input.txt` file to be used as `fd` use this command:
+
 ```bash
 cc *.c -o get_next_line && ./get_next_line | cat -e
 ```
