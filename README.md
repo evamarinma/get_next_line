@@ -45,7 +45,9 @@ cc *.c -o get_next_line && grep e input.txt | ./get_next_line | cat -e
 </blockquote>
 
 <img width="100%" height="100%" alt="stdin 0 get_next_line example" src="https://i.imgur.com/NhZQTtr.png" />
-<small>*Get creative and try different ways to get lines from an input through the terminal!*</small>
+<small><i>Get creative and try different ways to get lines from an input through the terminal!</i></small>
+
+> 🟦 Example text in a blue quote block
 
 
 
