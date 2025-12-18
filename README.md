@@ -33,6 +33,7 @@ git clone git@github.com:evamarinma/get_next_line.git
 ```bash
 cc *.c -o get_next_line && ./get_next_line | cat -e
 ```
+
 * Let's say you didn't want to read through the whole `input.txt` file. You're only interested in getting the lines containing character 'e'. You can do so like this:
 ```bash
 cc *.c -o get_next_line && grep e input.txt | ./get_next_line | cat -e
